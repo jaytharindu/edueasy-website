@@ -1,2 +1,1 @@
-# edueasy-website
-Website for the EduEasy Smart Learning Assistant System
+# Website for the EduEasy Smart Learning Assistant System
